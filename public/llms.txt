@@ -1,0 +1,36 @@
+# Saginaw Construction
+
+> Drywall and remodeling contractor serving Bend, Oregon and surrounding Central
+> Oregon communities. Residential drywall, commercial drywall and remodeling
+> construction. Over 30 years in the drywall industry.
+
+Owner and manager: Patrick McElderry
+Contact: Patrick@SaginawConstruction.com
+Service area: Bend, Redmond, Sisters, Sunriver, La Pine, Prineville, Tumalo, Terrebonne - Oregon
+
+## Services
+
+- Residential Drywall (/services/residential-drywall): Hanging, taping, finishing
+  and texture for new homes, additions and repairs. Includes texture matching on
+  older homes and repair after water or impact damage.
+- Commercial Drywall (/services/commercial-drywall): Tenant improvements, office
+  build-outs, retail, restaurant and medical interiors. Fire-rated and sound-rated
+  assemblies, Level 4 and Level 5 finishing.
+- Remodeling Construction (/services/remodeling-construction): Wall removal, new
+  openings, kitchen and bathroom remodels, basement and garage finishing, popcorn
+  ceiling removal, texture matching between old and new work.
+
+## Key pages
+
+- Home (/): Overview of services and service area.
+- About (/about): Company background and owner experience.
+- Projects (/projects): Recent residential, commercial and remodel work.
+- Service Areas (/service-areas): Towns served across Central Oregon.
+- Reviews (/reviews): Customer reviews, collected via Trustpilot.
+- FAQ (/faq): Answers on scope, timelines, texture matching, dust and estimates.
+- Contact (/contact): Estimate request form and direct contact details.
+
+## Notes
+
+Values: integrity, quality, speed. Every job is scoped in writing before work
+starts. Owner-managed on site.

@@ -1,0 +1,73 @@
+/* ============================================================
+   DESIGN TOKENS
+   Palette and type scale taken from the supplied template:
+   sage green primary, cream and soft-sage grounds, near-black ink,
+   geometric bold display type, pill buttons, generous radii.
+   Change a value here and it changes everywhere.
+   ============================================================ */
+
+:root {
+  /* --- Colour --- */
+  --sage: #8e9e70;
+  --sage-dark: #74845a;
+  --sage-darker: #5c6a45;
+  --sage-soft: #dbe1cd;
+  --sage-tint: #edf0e5;
+  --cream: #f5f6f0;
+  --card: #e9ece0;
+
+  --ink: #14170f;
+  --ink-soft: #2c3126;
+  --muted: #5f6657;
+  --muted-light: #8b9080;
+
+  --white: #ffffff;
+  --line: rgba(20, 23, 15, 0.1);
+  --line-strong: rgba(20, 23, 15, 0.18);
+
+  --star: #d8a13a;
+
+  /* --- Type --- */
+  --font-display: 'Figtree', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fs-eyebrow: 0.75rem;
+  --fs-body-sm: 0.9375rem;
+  --fs-body: 1.0625rem;
+  --fs-lead: clamp(1.0625rem, 0.98rem + 0.4vw, 1.1875rem);
+  --fs-h4: clamp(1.125rem, 1.05rem + 0.35vw, 1.3125rem);
+  --fs-h3: clamp(1.375rem, 1.2rem + 0.8vw, 1.75rem);
+  --fs-h2: clamp(1.875rem, 1.35rem + 2.4vw, 3.125rem);
+  --fs-h1: clamp(2.375rem, 1.5rem + 3.9vw, 4.5rem);
+
+  /* --- Space --- */
+  --gutter: clamp(1.125rem, 0.7rem + 2vw, 2.5rem);
+  --section-y: clamp(3.5rem, 2.2rem + 5.5vw, 7rem);
+  --max-w: 1240px;
+  --max-w-narrow: 780px;
+
+  /* --- Shape --- */
+  --r-pill: 999px;
+  --r-xl: 32px;
+  --r-lg: 24px;
+  --r-md: 16px;
+  --r-sm: 10px;
+
+  /* --- Depth --- */
+  --shadow-sm: 0 2px 10px rgba(20, 23, 15, 0.06);
+  --shadow-md: 0 12px 32px rgba(20, 23, 15, 0.1);
+  --shadow-lg: 0 24px 60px rgba(20, 23, 15, 0.16);
+
+  /* --- Motion --- */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --t-fast: 160ms;
+  --t: 280ms;
+
+  --header-h: 76px;
+}
+
+@media (max-width: 900px) {
+  :root {
+    --header-h: 66px;
+  }
+}
